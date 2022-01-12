@@ -1,0 +1,8 @@
+D:\Casepoint\Assignments\CSharp\CP_Csharp\bin\Debug\CP_Csharp.exe.config
+D:\Casepoint\Assignments\CSharp\CP_Csharp\bin\Debug\CP_Csharp.exe
+D:\Casepoint\Assignments\CSharp\CP_Csharp\bin\Debug\CP_Csharp.pdb
+D:\Casepoint\Assignments\CSharp\CP_Csharp\obj\Debug\CP_Csharp.csproj.AssemblyReference.cache
+D:\Casepoint\Assignments\CSharp\CP_Csharp\obj\Debug\CP_Csharp.csproj.SuggestedBindingRedirects.cache
+D:\Casepoint\Assignments\CSharp\CP_Csharp\obj\Debug\CP_Csharp.csproj.CoreCompileInputs.cache
+D:\Casepoint\Assignments\CSharp\CP_Csharp\obj\Debug\CP_Csharp.exe
+D:\Casepoint\Assignments\CSharp\CP_Csharp\obj\Debug\CP_Csharp.pdb
